@@ -16,4 +16,11 @@ public class EditContactTest {
 	{
 		System.out.println("delete And edit is done");
 	}
+	
+	@Test
+	public void editAnddeleteTest1()
+	{
+		System.out.println("delete And edit is done");
+	}
+	
 }
