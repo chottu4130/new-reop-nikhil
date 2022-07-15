@@ -11,4 +11,9 @@ public class EditContactTest {
 	public void deleteEditTest() {
 		System.out.println("deleteEditTest executed");
 	}
+	@Test
+	public void editAnddeleteTest()
+	{
+		System.out.println("delete And edit is done");
+	}
 }

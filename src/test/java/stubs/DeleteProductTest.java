@@ -11,4 +11,9 @@ public class DeleteProductTest {
 	public void deleteCampaignTest() {
 		System.out.println("deleteCampaignTest executed");
 	}
+	@Test
+	public void deletandCreate()
+	{
+		System.out.println("product is delete and created");
+	}
 }
